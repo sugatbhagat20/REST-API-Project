@@ -1,0 +1,11 @@
+.mainContainer {
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-right: 50%;
+}
+
+#div1 {
+  border: 3px solid #d64545;
+  border-radius: 5px;
+  text-align: center;
+}
